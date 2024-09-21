@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Frankalt
+- 👀 I’m interested in photography and photo editing
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to improve my current skill levels in coding
+- ⚡ Fun fact: The Mona Lisa has no eyebrows 
